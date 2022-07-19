@@ -1,2 +1,2 @@
 # workshop-springboot2-jpa
-Projeto desenvolvido no curso do Prof. Nélio Alves. Utilizada as tecnologias Java e Spring Boot.
+Sistema de controle de pedidos simples desenvolvido no curso do Prof. Nélio Alves. Utiliza as tecnologias Java, Spring Boot, JPA, Banco de Dados H2 e PostgreSQL.
